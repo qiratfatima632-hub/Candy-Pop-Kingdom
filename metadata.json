@@ -1,0 +1,6 @@
+{
+  "name": "Candy Pop Kingdom: Match-3 Quest",
+  "description": "A vibrant 2D candy match-3 puzzle game with 50+ levels, special candies, daily rewards, shop, and juicy animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
